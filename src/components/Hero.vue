@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-9">
-                    <h3 class="text-danger">Certifild fiteness professional</h3>
+                    <h3 class="text-danger">Certifild fitness professional</h3>
                     <h1 class="hero-title">Take control of your health</h1>
                     <TextSeparator/>
                     <p class="hero-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem, itaque.</p>

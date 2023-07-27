@@ -6,7 +6,7 @@
             </div>
             <div class="col container text">
                 <p class="sub-title">Tune up your workouts</p>
-                <h1 class="title">The best health & fiteness advice online</h1>
+                <h1 class="title">The best health & fitness advice online</h1>
                 <p class="info">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil placeat tenetur possimus sunt totam ab?</p>
                 <button type="button" class="btn">
                     <span>
